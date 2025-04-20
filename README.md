@@ -2,7 +2,7 @@
 - 👀 I’m interested in pygame
 - 🌱 I’m currently learning python and pygame
 - 💞️ I’m looking to collaborate on pygame
-- 📫 How to reach me Amiatous.elyas@gmail.com
+- 📫 How to reach me: DONT
 - 😄 Pronouns: Me
 - ⚡ Fun fact: I know scratch
 
